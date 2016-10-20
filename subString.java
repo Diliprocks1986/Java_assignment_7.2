@@ -7,7 +7,7 @@ public class subString {
 	// main method 
    public static void main(String args[]) {
 	   // Asking for String from user
-	  System.out.println("Enter Any String: ");
+	  System.out.print("Enter Any String: ");
 	  // Reading and assigning the value given by user
 	  Str = System.console().readLine(); 
 	  // asking for index where the user want to Sub
